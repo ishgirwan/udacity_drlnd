@@ -12,6 +12,6 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
 
 # Dependencies
-* Set up the environment as per the instructions mentioned [here](https://github.com/udacity/deep-reinforcement-learning#dependencies).
-* Also download [Unity ML Agents](https://unity3d.com/machine-learning/).
+* Set up the Python environment as per the instructions mentioned [here](https://github.com/udacity/deep-reinforcement-learning#dependencies).
+* Build the training environment using [Unity ML Agents toolkit](https://unity3d.com/machine-learning/).  
 
