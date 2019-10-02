@@ -1,1 +1,1 @@
-# udacity_drlnd
+# Projects completed in Udacity Deep Reinforcement Learning Nanodegree
