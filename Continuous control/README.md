@@ -2,7 +2,7 @@
 # Environment
 We wll be working with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of the agent is to maintain its position at the target location for as many time steps as possible.The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1. We would be training model for two versions of the environment: 1.) single agent and 2.) twenty identical agents. The task is to get a score of +30 (over 100 consecutive episodes, and over all agents).
 
-![](reacher.gif)
+![Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/reacher.png)
 
 # Getting started
 1. Activate the environment:
